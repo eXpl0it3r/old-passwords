@@ -25,11 +25,11 @@
         "bordoni/phpass": "If you need to check against phpass hashes"
     },
     "require": {
-        "flarum/core": "^1.0",
+        "flarum/core": "^1.0 || ^2.0.0-beta",
         "ext-json": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5",
+        "phpunit/phpunit": "^9.5 || ^11.5",
         "bordoni/phpass": "^0.3"
     },
     "extra": {
