@@ -60,10 +60,10 @@ Example (password = `bcrypt(correcthorsebatterystaple)`):
 
 Reads portable and bcrypt hashes created with Phpass.
 
-In order to use this type you need to install the [`hautelook/phpass`](https://packagist.org/packages/hautelook/phpass) package:
+In order to use this type you need to install the [`bordoni/phpass`](https://packagist.org/packages/bordoni/phpass) package:
 
 ```bash
-composer require hautelook/phpass:^1.1
+composer require bordoni/phpass:^0.3
 ```
 
 Example (password = `portablehash(correcthorsebatterystaple)`):
